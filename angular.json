@@ -28,6 +28,7 @@
               "src/assets"
             ],
             "styles": [
+              "src/custom-theme.scss",
               "src/styles.less"
             ],
             "scripts": []
@@ -123,6 +124,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-material-admin"
+    }
+  },
+  "defaultProject": "angular-material-admin",
+  "cli": {
+    "analytics": "a88d0c32-9ea7-45cb-af75-5c1542aaee60"
+  }
 }
